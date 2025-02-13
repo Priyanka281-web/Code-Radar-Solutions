@@ -6,6 +6,6 @@ int main() {
         printf("True");
  }
     else{
-        orintf("False");
+        printf("False");
     }
 }
