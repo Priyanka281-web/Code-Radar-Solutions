@@ -4,9 +4,10 @@ int main() {
     scanf("%d%d",&a,&b);
     if(a!=) {
         printf("True");
+    }
         else{
             printtf("False");
         }
-    }
+   
     return 0;
 }
