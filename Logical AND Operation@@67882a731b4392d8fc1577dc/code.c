@@ -2,8 +2,8 @@
 int main( {
     int a,b;
     scanf("%d%d",&a,&b);
-    if(a&&b) {
-        printf("True");
+    if(a>0,b>0) {
+        printf("a&&b");
     }
     else{
         printf("False");
