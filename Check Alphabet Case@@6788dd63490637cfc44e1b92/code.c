@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    char a;
-    scanf("%d",&a);
-    if((a>97) && (a<122)) {
+    char ch;
+    scanf("%d",&ch);
+    if((ch >= 'a') && (ch <= 'b')) {
         printf("Lowercase");
     }
         else {
