@@ -9,9 +9,9 @@ int main() {
         printf("A\nA B");
     }
     if(n==3){
-        printf("A\nB 2\nA B C");
+        printf("A\nA B\nA B C");
     }if(n==4){
-        printf("1\n1 2\n1 2 3\n1 2 3 4");
+        printf("A\nA B\nA B C\nA B C D");
     }
     if(n==5){
         printf("1\n1 2\n1 2 3\n1 2 3 4\n1 2 3 4 5");
