@@ -9,7 +9,7 @@ int main() {
         printf("  *\n ***\n*****\n ***\n  *");
     }
     if(n==4){
-        printf(" *\n***\n *");
+        printf("   *\n  ***\n *****\n*******\n *****\n  ***\n   *");
     }
     if(n==5){
         printf(" *\n***\n *");
