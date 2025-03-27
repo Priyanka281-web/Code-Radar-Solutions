@@ -5,4 +5,7 @@ int main() {
     if(n==2){
         printf("**\n**");
     }
+    if(n==3){_
+        printf("***\n* *\n***");
+        }
 }
