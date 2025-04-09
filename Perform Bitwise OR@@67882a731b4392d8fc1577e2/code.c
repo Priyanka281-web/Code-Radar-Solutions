@@ -14,7 +14,7 @@ int main() {
     result = num1 | num2;
 
     // Print the result
-    printf("result");
+    printf("%d",result);
 
     return 0;
 }
