@@ -50,7 +50,7 @@ int findUnsortedSubarray(int arr[], int n) {
     return (end - start + 1);
 }
 
-int main() {
+ int main() {
     int arr[] = {1, 2, 5, 3, 4, 7, 6, 8};
     int n = sizeof(arr) / sizeof(arr[0]);
 
