@@ -22,9 +22,9 @@ int main() {
     if ((side1 + side2 > side3) &&
         (side2 + side3 > side1) &&
         (side1 + side3 > side2)) {
-        printf("The triangle is valid.\n");
+        printf("Valid\n");
     } else {
-        printf("The triangle is not valid.\n");
+        printf("Ivalid\n");
     }
 
 
