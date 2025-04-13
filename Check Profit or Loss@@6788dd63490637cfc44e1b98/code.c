@@ -6,7 +6,7 @@ void checkTransaction(float costPrice, float sellingPrice) {
     } else if (sellingPrice < costPrice) {
         printf("Loss\n");
     } else {
-        printf("No Profit, No Loss\n");
+        printf("No Profit  No Loss\n");
     }
 }
 
