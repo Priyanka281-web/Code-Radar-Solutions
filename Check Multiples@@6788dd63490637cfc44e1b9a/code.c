@@ -2,15 +2,15 @@
 
 void checkMultiple(int a, int b) {
     if (b != 0 && a % b == 0) {
-        printf("%d is a multiple of %d.\n", a, b);
+        printf("Yes");
     } else {
-        printf("%d is not a multiple of %d.\n", a, b);
+        printf("No");
     }
 }
 
 int main() {
     int num1, num2;
-    printf("Enter two numbers (a and b): ");
+    printf("");
     scanf("%d %d", &num1, &num2);
 
     checkMultiple(num1, num2);
