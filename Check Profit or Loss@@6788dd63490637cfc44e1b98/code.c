@@ -13,10 +13,10 @@ void checkTransaction(float costPrice, float sellingPrice) {
 int main() {
     float costPrice, sellingPrice;
 
-    printf("Enter Cost Price: ");
+    printf("");
     scanf("%f", &costPrice);
 
-    printf("Enter Selling Price: ");
+    printf("");
     scanf("%f", &sellingPrice);
 
     checkTransaction(costPrice, sellingPrice);
