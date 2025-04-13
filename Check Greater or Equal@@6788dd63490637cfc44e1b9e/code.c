@@ -2,9 +2,9 @@
 
 void checkGreaterOrEqual(int a, int b) {
     if (a >= b) {
-        printf("%d is greater than or equal to %d.\n", a, b);
+        printf("Yes");
     } else {
-        printf("%d is not greater than or equal to %d.\n", a, b);
+        printf("No");
     }
 }
 
