@@ -18,7 +18,7 @@ void checkCharacterType(char c) {
 
 int main() {
     char c;
-    printf("Enter a character: ");
+    printf(" ");
     scanf("%c", &c);
 
     checkCharacterType(c);
