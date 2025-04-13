@@ -12,7 +12,7 @@ void checkNumberSign(int num) {
 
 int main() {
     int num;
-    printf("\");
+    printf("");
     scanf("%d", &num);
 
     checkNumberSign(num);
