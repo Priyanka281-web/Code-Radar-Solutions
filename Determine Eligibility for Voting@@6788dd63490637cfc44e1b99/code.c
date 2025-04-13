@@ -2,15 +2,15 @@
 
 void checkEligibility(int age) {
     if (age >= 18) {
-        printf("Eligible to vote.\n");
+        printf("Eligible\n");
     } else {
-        printf("Not eligible to vote.\n");
+        printf("Not eligible\n");
     }
 }
 
 int main() {
     int age;
-    printf("Enter your age: ");
+    printf("");
     scanf("%d", &age);
 
     checkEligibility(age);
