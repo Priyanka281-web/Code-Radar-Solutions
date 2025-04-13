@@ -10,11 +10,11 @@ char getGrade(int marks) {
 
 int main() {
     int marks;
-    printf("Enter marks: ");
+    printf("");
     scanf("%d", &marks);
 
     char grade = getGrade(marks);
-    printf("Grade: %c\n", grade);
+    printf("", grade);
 
     return 0;
 }
