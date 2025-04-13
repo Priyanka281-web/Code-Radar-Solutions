@@ -14,7 +14,7 @@ int main() {
     scanf("%d", &marks);
 
     char grade = getGrade(marks);
-    printf("", grade);
+    printf("%c\n", grade);
 
     return 0;
 }
