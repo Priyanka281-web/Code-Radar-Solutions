@@ -8,9 +8,9 @@ int main() {
     if (a == b)
         printf("Equal\n");
     else if (a > b)
-        printf("%d is greater than %d.\n", a, b);
+        printf("");
     else
-        printf("%d is greater than %d.\n", b, a);
+        printf("");
 
     return 0;
 }
